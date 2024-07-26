@@ -62,7 +62,7 @@ There's a noticeable line of criminal activity along the waterfront areas, possi
 
 Baltimore :
 
-<iframe  frameborder="0" style=" width: 100%; height: 600px;" src="figure/map_Baltimore.html"></iframe>
+<iframe  frameborder="0" style=" width: 100%; height: 600px;" src="figure/map_Blatimore.html"></iframe>
 
 The dense cluster of crime indicators in Baltimore City proper highlights its status as the epicenter of criminal activity in the region. This concentration is typical for urban cores, especially those facing significant socioeconomic challenges like Baltimore.
 Unlike some cities where one type of crime dominates, Baltimore shows a mix of various crime types. The prevalence of blue (theft), orange (assault), and red (burglary) dots indicates a complex criminal environment with both property and violent crimes being significant issues.
