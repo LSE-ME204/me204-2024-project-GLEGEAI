@@ -4,7 +4,8 @@ North America suffer of a rising of violence this few decade :
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=s_NkLRb_Ldc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe  frameborder="0" style=" width: 100%; height: 110%;" src="./figure Repartition_of_crime_by_type.html"></iframe>
+<iframe  frameborder="0" style=" width: 100%; height: 110%;" src="figure/Repartition_of_crime_by_type.html"></iframe>
+
 
 
 
