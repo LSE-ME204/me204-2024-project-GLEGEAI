@@ -2,11 +2,9 @@
 
 North America suffer of a rising of violence this few decade :
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=s_NkLRb_Ldc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s_NkLRb_Ldc?si=EJZ5GxWrUVIDzM_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe  frameborder="0" style=" width: 100%; height: 110%;" src="figure/Repartition_of_crime_by_type.html"></iframe>
-
-
 
 
 To answer the question is North America a dangerous place we are going to analyze the crime in two North American cities : Balitmore in USA and Vancouver in Canada:
