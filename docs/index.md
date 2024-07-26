@@ -4,9 +4,6 @@ North America suffer of a rising of violence this few decade :
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s_NkLRb_Ldc?si=EJZ5GxWrUVIDzM_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe  frameborder="0" style=" width: 100%; height: 600px;" src="figure/Repartition_of_crime_by_type.html"></iframe>
-
-
 To answer the question is North America a dangerous place we are going to analyze the crime in two North American cities : Balitmore in USA and Vancouver in Canada:
 
 This analyze will be based on data found on kaggle that show the criminality in each city since the start 2012 for Baltimore and 2003 for Vancouver.
@@ -26,27 +23,31 @@ Median Household Income : $72,000
 High school graduation rate : 91%
 
 Let's start by seeing the repartition of crime by type :
-![Title : Number of crime by type](./figure/Repartition_of_crime_by_type.html)
+
+<iframe  frameborder="0" style=" width: 100%; height: 600px;" src="figure/Repartition_of_crime_by_type.html"></iframe>
 
 As we can see the theft is the most common crime nearly 50%. Then come the burglary, the larency the assult and the mischief. That five crime represent the majority of crime barely 90%. Hopefully the rape and the arson are rare.
 
 
 Let's continue by analyze the number of crime in each city :
 
-![Title : Number of crime by city](./figure/number_of_crime_by_city.html)
+<iframe  frameborder="0" style=" width: 100%; height: 600px;" src="figure/number_of_crime_by_city.html"></iframe>
 
 Based on this graph we can see that there is much more crime in Vancouver than in Baltimore but this is a bias because we do not have the same time range.
 
 Let's then focus on the accuracy of crime with the time :
 
-![Title : City crime counts by city overtime](./figure/city_crime_counts_by_city_overtime.html)
+
+<iframe  frameborder="0" style=" width: 100%; height: 600px;" src="figure/city_crime_counts_by_city_overtime.html"></iframe>
+
 
 As we can see the crime is decreasing with time in Vancouver in the beggining and the stay kind of stable. For Baltimore me can see that it change cyclically with low accuracy and then high accuracy. Moreover, we can notice two peaks of crime. It may be due to a high number of complaints lodged due to a close of the police office or it can be accidents due to terrible weather.
 
 We can now focus on the locality of the crime. As we have the position we can analyze where are the risky aera on both city.
 
 Vancouver :
-![Title : City crime counts by city overtime](./figure/map_Vancouver.html)
+<iframe  frameborder="0" style=" width: 100%; height: 600px;" src="figure/map_Vancouver.html"></iframe>
+
 
 The dense cluster of crime indicators in Vancouver proper underscores the city's role as the epicenter of criminal activity in the region. This is typical for urban cores, which often experience higher crime rates due to population density, economic disparities, and more opportunities for certain types of crimes. 
 The dominance of blue dots, representing theft, aligns with Vancouver's well-known struggle with property crime. This has been a persistent issue, often linked to drug addiction and homelessness in certain areas. 
@@ -60,7 +61,8 @@ There's a noticeable line of criminal activity along the waterfront areas, possi
 
 
 Baltimore :
-![Title : City crime counts by city overtime](./figure/map_Vancouver.html)
+
+<iframe  frameborder="0" style=" width: 100%; height: 600px;" src="figure/map_Baltimore.html"></iframe>
 
 The dense cluster of crime indicators in Baltimore City proper highlights its status as the epicenter of criminal activity in the region. This concentration is typical for urban cores, especially those facing significant socioeconomic challenges like Baltimore.
 Unlike some cities where one type of crime dominates, Baltimore shows a mix of various crime types. The prevalence of blue (theft), orange (assault), and red (burglary) dots indicates a complex criminal environment with both property and violent crimes being significant issues.
