@@ -22,6 +22,8 @@ Unemployment Rate : 4.5%
 Median Household Income : $72,000
 High school graduation rate : 91%
 
+# Let's talk about criminality in these cities : 
+
 Let's start by seeing the repartition of crime by type :
 
 <iframe  frameborder="0" style=" width: 100%; height: 600px;" src="figure/Repartition_of_crime_by_type.html"></iframe>
